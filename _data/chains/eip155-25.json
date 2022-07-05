@@ -14,9 +14,16 @@
   "shortName": "cro",
   "chainId": 25,
   "networkId": 25,
-  "explorers": [{
-    "name": "Cronos Explorer",
-    "url": "https://cronos.org/explorer",
-    "standard": "none"
-  }]
+  "explorers": [
+    {
+      "name": "CronoScan",
+      "url": "https://cronoscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Cronos Explorer",
+      "url": "https://cronos.org/explorer",
+      "standard": "none"
+    }
+  ]
 }
